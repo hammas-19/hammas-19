@@ -1,8 +1,17 @@
 <h1 align="center"> Hello Fellas
 <img align="center" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 120px>
-<h2> <p align="left"> I am : </p><p align="right">  My assets are : </p>  </h2> 
+<h2> <p align="left"> I am : </p> </h2> 
 <h3 align="left"> Hammas Masood here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
 
+- 🌱 an undergraduate tech-native student
+  
+- 🌟 a frontend developer at @Al-Nafi
+  
+- 🔭 focusing to learn more
+  
+  <br>
+
+  <h2 align="right">  My assets are : </h2>
   <p align="right"> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
       <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'
@@ -36,17 +45,6 @@
 
   
   </p>
-
-
-- 🌱 an undergraduate tech-native student
-  
-- 🌟 a frontend developer at @Al-Nafi
-  
-- 🔭 focusing to learn more
-  
-  <br>
-
-  
 
    
 
