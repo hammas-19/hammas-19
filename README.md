@@ -3,7 +3,7 @@
 <h2> <p align="left"> I am : </p> </h2> 
 <h3 align="left"> Hammas Masood here! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h3>
 
-- 🌱 an undergraduate tech-native student
+- 🌱 a graduate tech-native student
   
 - 🌟 a frontend developer at @Al-Nafi
   
